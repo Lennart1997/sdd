@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SDJ2.iml" filepath="$PROJECT_DIR$/.idea/SDJ2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/e1-1_PrintLettersAndNumbers/Lesson01/e1-1_PrintLettersAndNumbers.iml" filepath="$PROJECT_DIR$/Lesson01/e1-1_PrintLettersAndNumbers/Lesson01/e1-1_PrintLettersAndNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/e1-2_RunInsteadOfStart/Lesson01/e1-2_RunInsteadOfStart.iml" filepath="$PROJECT_DIR$/Lesson01/e1-2_RunInsteadOfStart/Lesson01/e1-2_RunInsteadOfStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/e1-3_Constructors/Lesson01/e1-3_Constructors.iml" filepath="$PROJECT_DIR$/Lesson01/e1-3_Constructors/Lesson01/e1-3_Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/e1-4_Sleep/Lesson01/e1-4_Sleep.iml" filepath="$PROJECT_DIR$/Lesson01/e1-4_Sleep/Lesson01/e1-4_Sleep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/e1-5_ThreadSerializationUsingJoin/Lesson01/e1-5_ThreadSerializationUsingJoin.iml" filepath="$PROJECT_DIR$/Lesson01/e1-5_ThreadSerializationUsingJoin/Lesson01/e1-5_ThreadSerializationUsingJoin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/e1-6_SleepingBear/Lesson01/e1-6_SleepingBear.iml" filepath="$PROJECT_DIR$/Lesson01/e1-6_SleepingBear/Lesson01/e1-6_SleepingBear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson01/e1-7_UpdatingASharedNumber/Lesson01/e1-7_UpdatingASharedNumber.iml" filepath="$PROJECT_DIR$/Lesson01/e1-7_UpdatingASharedNumber/Lesson01/e1-7_UpdatingASharedNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson02/e2-1-1_1Counter/Lesson02/e2-1-1_1Counter.iml" filepath="$PROJECT_DIR$/Lesson02/e2-1-1_1Counter/Lesson02/e2-1-1_1Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson02/e2-1-2_2Counters/Lesson02/e2-1-2_2Counters.iml" filepath="$PROJECT_DIR$/Lesson02/e2-1-2_2Counters/Lesson02/e2-1-2_2Counters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson02/e2-1-3_TryLock/Lesson02/e2-1-3_TryLock.iml" filepath="$PROJECT_DIR$/Lesson02/e2-1-3_TryLock/Lesson02/e2-1-3_TryLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson02/e2-2_SynchronizedList/Lesson02/e2-2_SynchronizedList.iml" filepath="$PROJECT_DIR$/Lesson02/e2-2_SynchronizedList/Lesson02/e2-2_SynchronizedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson02/e2-3-1_TwoThermometers/Lesson02/e2-3-1_TwoThermometers.iml" filepath="$PROJECT_DIR$/Lesson02/e2-3-1_TwoThermometers/Lesson02/e2-3-1_TwoThermometers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson02/e2-3_SimulatingTemperatureInARoom/Lesson02/e2-3_SimulatingTemperatureInARoom.iml" filepath="$PROJECT_DIR$/Lesson02/e2-3_SimulatingTemperatureInARoom/Lesson02/e2-3_SimulatingTemperatureInARoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson02/e2-4_IncrementDecrement/Lesson02/e2-4_IncrementDecrement.iml" filepath="$PROJECT_DIR$/Lesson02/e2-4_IncrementDecrement/Lesson02/e2-4_IncrementDecrement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/e3-1_TrafficLight/Lesson03/e3-1_TrafficLight.iml" filepath="$PROJECT_DIR$/Lesson03/e3-1_TrafficLight/Lesson03/e3-1_TrafficLight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/e3-2_TrafficLightWithPropertyChangeSupport/Lesson03/e3-2_TrafficLightWithPropertyChangeSupport.iml" filepath="$PROJECT_DIR$/Lesson03/e3-2_TrafficLightWithPropertyChangeSupport/Lesson03/e3-2_TrafficLightWithPropertyChangeSupport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/e3-3_DoctorsWaitingRoom/Lesson03/e3-3_DoctorsWaitingRoom.iml" filepath="$PROJECT_DIR$/Lesson03/e3-3_DoctorsWaitingRoom/Lesson03/e3-3_DoctorsWaitingRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/e3-4_SoccerMatch/Lesson03/e3-4_SoccerMatch.iml" filepath="$PROJECT_DIR$/Lesson03/e3-4_SoccerMatch/Lesson03/e3-4_SoccerMatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson03/e3-6_TemperaturePresenterWithObserver/Lesson03/e3-6_TemperaturePresenterWithObserver.iml" filepath="$PROJECT_DIR$/Lesson03/e3-6_TemperaturePresenterWithObserver/Lesson03/e3-6_TemperaturePresenterWithObserver.iml" />
+    </modules>
+  </component>
+</project>
